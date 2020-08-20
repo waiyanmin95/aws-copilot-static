@@ -1,0 +1,1 @@
+# aws_copilot_static
