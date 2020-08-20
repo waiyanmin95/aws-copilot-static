@@ -50,4 +50,8 @@ Environment – An environment is one stage of deployment of an application. For
 
 Service – A service is a single long running code process inside a container. An application consists of one or more services. If you are using a monolithic architecture, then it’s likely each application will have just a single service. A more distributed architecture will utilize multiple services for each application. For example, you might have a “website” service with an internet facing load balancer, an internal “API” service that is only accessible via service discovery, and a “background worker” service that works on jobs off a queue. Together these services make up the components of a single application.
 
-then Deploy ... 
+then Deploy ...
+
+## DEMO
+
+[![asciicast](https://asciinema.org/a/354455.svg)](https://asciinema.org/a/354455) 
