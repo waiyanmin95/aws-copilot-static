@@ -25,4 +25,4 @@ stages:
       name: production
       # Optional: use test commands to validate this stage of your build.
       # test_commands: [echo 'running tests', make test]
-
+      test_commands: [echo 'running tests', make test]
