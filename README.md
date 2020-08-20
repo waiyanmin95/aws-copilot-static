@@ -1,5 +1,19 @@
 # aws_copilot_static
 
+### Prerequisites
+
+Before you begin, complete the following prerequisites:
+
+    Set up an AWS account. For more information see Setting up with Amazon ECS.
+
+    Install the AWS Copilot CLI. Releases currently support Linux and macOS systems. For more information, see Installing the AWS Copilot CLI.
+
+    Install and configure the AWS CLI. For more information, see AWS Command Line Interface.
+
+    Run aws configure to set up a default profile that the AWS Copilot CLI will use to manage your application and services.
+
+    Install Docker. For more information see Get Started with Docker. 
+
 ## Installing
 
 ### Homebrew 🍻
@@ -22,16 +36,4 @@ We're distributing binaries from our GitHub releases. Instructions for installin
 
 </details>
 
-### Prerequisites
-
-Before you begin, complete the following prerequisites:
-
-    Set up an AWS account. For more information see Setting up with Amazon ECS.
-
-    Install the AWS Copilot CLI. Releases currently support Linux and macOS systems. For more information, see Installing the AWS Copilot CLI.
-
-    Install and configure the AWS CLI. For more information, see AWS Command Line Interface.
-
-    Run aws configure to set up a default profile that the AWS Copilot CLI will use to manage your application and services.
-
-    Install Docker. For more information see Get Started with Docker. 
+More Information: https://github.com/aws/copilot-cli , https://aws.github.io/copilot-cli/
